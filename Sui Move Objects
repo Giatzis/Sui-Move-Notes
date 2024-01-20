@@ -1,1 +1,0 @@
-Unlike other programming languages that are used to code smart contracts, Sui Move control each operation inside the network by the usage of "objects", both for the inputs and the outputs.
